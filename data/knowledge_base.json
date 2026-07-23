@@ -1,0 +1,58 @@
+[
+  {
+    "id": "dog_puppy_feeding",
+    "pet_type": "dog",
+    "life_stage": "puppy",
+    "category": "feeding",
+    "content": "Puppies need to be fed small, frequent meals throughout the day, typically three to four times daily until around six months of age. Choose a food formulated specifically for growth to support their rapid development. Always provide fresh water and follow portion guidelines based on the puppy's expected adult weight."
+  },
+  {
+    "id": "dog_adult_exercise",
+    "pet_type": "dog",
+    "life_stage": "adult",
+    "category": "exercise",
+    "content": "Most adult dogs benefit from at least 30 to 60 minutes of physical activity each day, though the amount varies by breed and energy level. A mix of walks, play, and mental stimulation helps maintain a healthy weight and reduces boredom-related behaviors. High-energy working breeds generally require more vigorous and prolonged exercise than smaller companion breeds."
+  },
+  {
+    "id": "dog_senior_health_checkups",
+    "pet_type": "dog",
+    "life_stage": "senior",
+    "category": "health_checkups",
+    "content": "Senior dogs should typically have veterinary checkups at least twice a year rather than annually, since age-related conditions can progress quickly. These visits often include bloodwork and screening for issues like arthritis, kidney disease, and dental problems. Early detection allows for better management of chronic conditions and improved quality of life."
+  },
+  {
+    "id": "dog_senior_grooming",
+    "pet_type": "dog",
+    "life_stage": "senior",
+    "category": "grooming",
+    "content": "Older dogs may need gentler and more frequent grooming as their skin becomes more sensitive and their coat condition changes. Regular brushing helps with circulation and lets you check for lumps, sores, or changes in the skin. Keep nails trimmed, since reduced activity can cause them to grow longer and affect comfortable movement."
+  },
+  {
+    "id": "cat_kitten_health_checkups",
+    "pet_type": "cat",
+    "life_stage": "kitten",
+    "category": "health_checkups",
+    "content": "Kittens require a series of veterinary visits during their first few months for vaccinations, deworming, and general wellness checks. These early appointments also establish a baseline for the kitten's health and are a good time to discuss spaying or neutering. Following the recommended vaccination schedule helps protect against common feline diseases."
+  },
+  {
+    "id": "cat_adult_feeding",
+    "pet_type": "cat",
+    "life_stage": "adult",
+    "category": "feeding",
+    "content": "Adult cats generally do well with measured portions fed once or twice a day to help prevent obesity, which is common in indoor cats. Because cats are obligate carnivores, their diet should be rich in animal-based protein. Fresh water should always be available, and many cats benefit from wet food to support hydration."
+  },
+  {
+    "id": "cat_adult_grooming",
+    "pet_type": "cat",
+    "life_stage": "adult",
+    "category": "grooming",
+    "content": "While cats groom themselves, regular brushing helps reduce shedding and the formation of hairballs, especially in long-haired breeds. Brushing also gives you an opportunity to check for fleas, mats, and skin issues. Most short-haired cats need brushing about once a week, whereas long-haired cats may need it daily."
+  },
+  {
+    "id": "cat_senior_exercise",
+    "pet_type": "cat",
+    "life_stage": "senior",
+    "category": "exercise",
+    "content": "Senior cats tend to be less active, but gentle play sessions help maintain mobility, muscle tone, and a healthy weight. Short, low-impact activities such as wand toys or food puzzles encourage movement without straining aging joints. Watch for signs of stiffness or reluctance to jump, which may indicate arthritis and warrant a veterinary visit."
+  }
+]
